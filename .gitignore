@@ -1,0 +1,56 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+.DS_Store
+.gradle/
+build/
+.idea/
+*.iml
+android/local.properties
+android/keystore.properties
+android/*.jks
+android/*.keystore
+android/app/*.jks
+android/app/*.keystore
+android/.gradle/
+android/app/build/
+
+# ── GSD baseline (auto-generated) ──
+.gsd
+.gsd-id
+.mcp.json
+.bg-shell/
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+*.code-workspace
+.env.*
+!.env.example
+.next/
+__pycache__/
+*.pyc
+.venv/
+venv/
+target/
+vendor/
+coverage/
+.cache/
+tmp/
+# Agent / local scratch
+.claude/
+.agents/
+.firecrawl/
+**/.firecrawl/
+*-handoff.md
+context.md
+fullContext.md
+a.md
+agent instruction.md
+skills-lock.json
+# Build artifacts
+proxy/dist/
+android/build/
