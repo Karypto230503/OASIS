@@ -1,4 +1,4 @@
-# Vision Assist MVP
+# OASIS
 
 Android-first assistive AI prototype for blind and low-vision users. The phone streams camera and microphone input to a local Node.js proxy, the proxy connects to Gemini Live, and spoken Bengali audio responses play back on Android.
 
